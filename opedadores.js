@@ -19,7 +19,7 @@ console.log(resultado2);
 
 // 3
 
-let resultado3 = (5 - 4) * -1
+let resultado3 = (4 - 5) * -1
 
 console.log(resultado3);
 
@@ -31,3 +31,9 @@ let resultado4 = 234 % 5
 console.log(resultado4);
 
 
+// comparadores
+
+// igual: ===
+// Diferente: !==
+// Maior e maior igual: > e >=
+// menor e menor igual: < e <= 
